@@ -1,0 +1,10 @@
+{
+    "name": "code-advent",
+    "version": "0.0.1",
+    "license": "MIT",
+    "dependencies": {
+        "lumo-cljs": "^1.10.1",
+        "readline-sync": "1.4.10",
+        "js-combinatorics": "0.5.4"
+    }
+}
